@@ -1,0 +1,12 @@
+{
+"testdata":[
+{ 
+    "phoneNumber":"1237567899",
+    "password":"nobroker123",
+    "location1":"Marathahalli Bangaluru",
+    "location2":"HSR Layout",
+    "notes":"Property has wrong info",
+    "expectedMessage":"Thank you for the feedback"
+}
+]
+}
